@@ -7,37 +7,37 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 1,
             name: 'Jake the Dog',
             quote: '"You got to focus on what\'s real, man"',
-            image: "images/jake.png",
+            image: "../assets/images/jake.png",
         },
         {
             id: 6,
             name: 'Jake the Dog',
             quote: '"What\'s good Finn?"',
-            image: "images/jake.png",
+            image: "../assets/images/jake.png",
         },
         {
             id: 2,
             name: 'BMO',
             quote: '"Sometimes life is scary and dark"',
-            image: "images/bmo.png",
+            image: "../assets/images/bmo.png",
         },
         {
             id: 3,
             name: 'Finn',
             quote: '"Is that where creativity comes from? From sad and biz?"',
-            image: "images/finn.png",
+            image: "../assets/images/finn.png",
         },
         {
             id: 4,
             name: 'PB',
             quote: '"Responsibility demands sacrifice."',
-            image: "images/PB.png",
+            image: "../assets/images/PB.png",
         },
         {
             id: 5,
             name: 'Ice King',
             quote: '"My Priceeeesss!!!"',
-            image: "images/iceking.png",
+            image: "../assets/images/iceking.png",
         }
     ]
 
